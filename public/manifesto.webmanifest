@@ -1,0 +1,32 @@
+{
+  "name": "Dekoreba",
+  "short_name": "Dekoreba",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#fff",
+  "description": "Aplicativo para decorar coisas.",
+  "lang": "pt-BR",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./imagens/favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "any"
+    },
+    {
+      "src": "./imagens/favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./imagens/favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+
+    }
+  ],
+  "theme_color": "#a834eb"
+}
+

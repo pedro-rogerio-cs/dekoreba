@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<title>Dekoreba</title>
+  	<meta name="description" content="Aprenda novos idiomas ou qualquer outra coisa com o método dekoreba."/>
+
+	<link rel="manifest" href="./manifesto.webmanifest"/>      
+
+	<link rel="stylesheet" type="text/css" href="../css/simples.css"/>
+	<link rel="stylesheet" type="text/css" href="../css/geral.css"/>
+
+	<link rel="stylesheet" type="text/css" href="../css/fontello/drop.css"/>
+
+	<script type="text/javascript" src="../js/tinycolor.js"></script>
+	<script type="text/javascript" src="../js/env.js"></script>
+
+	<script type="text/javascript" src="../js/xeca_mexido.js"></script>
+	<script type="text/javascript" src="../js/html_palavras.js"></script>
+	<script type="text/javascript" src="../js/genericas.js"></script>
+	<script type="text/javascript" src="../js/aux_cria.js"></script>
+	<script type="text/javascript" src="../js/variaveis.js"></script>
+	<script type="text/javascript" src="../js/auxiliares.js"></script>
+
+	<script type="text/javascript" src="../js/faz_html_auxiliares.js"></script>
+
+	<script type="text/javascript" src="../js/preparacoes.js"></script>
+	<script type="text/javascript" src="../js/modelos.js"></script>
+	
+	<meta content='yes' name='apple-mobile-web-app-capable'/>
+	<meta content='yes' name='mobile-web-app-capable'/>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Optimal Internet Explorer compatibility -->
+	<meta name="theme-color" content="#a834eb" />
+	<!-- <link rel="apple-touch-icon" href="../imagens/favicons/apple-touch-icon.png"> -->
+
+</head>
+
+<body onload="inicio(JSON.stringify(obj_inicio))" style="margin: 0; padding: 0;">
+
+	<noscript>JavaScript desabilitado. Por favor, habilite-lho para utilizar o site em toda sua magnitúlde!</noscript>
+
+	<div id="container_loading" class="flex_row center container_loading" style="display: none;">
+		<div class="loader"></div>
+	</div>
+
+	<div id="div_palco_index" class="palco"></div>
+
+</body>
+<script>
+
+if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js')
+        .then((registration) => {
+          console.log('Service Worker registrado:', registration);
+        })
+        .catch((error) => {
+          console.error('Falha ao registrar o Service Worker:', error);
+        });
+    }
+
+
+</script>
+</html>
