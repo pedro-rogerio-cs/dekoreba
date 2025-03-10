@@ -1,0 +1,54 @@
+{
+  "index": {
+    "idioma": "en",
+    "frase_principal": "Expand your vocabulary and memorize words while playing",
+    "aviso_beta": "Beta version",
+    "idioma_da_pagina": "Site Language:",
+    "termos_uso": "Terms of Use",
+    "politica_privacidade": "Privacy Policy",
+
+    "login": "Login",
+    "cadastro": "Registration"
+  },
+
+  "cadastro": {
+    "cadastro": "Registration",
+    
+    "nome": "Name",
+    "email": "Email",
+    "digite_senha": "Enter your password",
+    "fraca": "Weak password",
+    "media": "Medium password",
+    "forte": "Strong password",
+
+    "condicao_1": "Uppercase letter",
+    "condicao_2": "Lowercase letter",
+    "condicao_3": "Number",
+    "condicao_4": "Special character",
+    "condicao_5": "Minimum of 6 characters",
+
+    "repita_senha": "Repeat the password",
+
+    "cadastrar": "Register",
+    
+    "sem_nome": "Please enter a name",
+    "email_invalido": "Please enter a valid email",
+        "senha_fraca": "Please enter a strong password",
+
+    "senhas_diferentes": "Password and its repetition must be the same"
+
+},
+
+"login": {
+    "login": "Login",
+    "email": "Email",
+    "senha": "Enter your password",
+    "esqueceu_senha": "Forgot your password?",
+    "entrar": "Sign In",
+    "usuario_nao_encontrado": "User not found",
+    "senha_incorreta": "Incorrect password",
+    "digite_email_recup": "Enter your email for password recovery:",
+    "te_enviamos": "We sent you an email to create a new password"
+}
+
+}

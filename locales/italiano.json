@@ -1,0 +1,51 @@
+{
+  "index": {
+    "idioma": "it",
+    "frase_principal": "Espandi il tuo vocabolario e memorizza le parole giocando",
+    "aviso_beta": "Versione beta",
+    "idioma_da_pagina": "Lingua Sitio:",
+    "termos_uso": "Termini",
+    "politica_privacidade": "Privacy",
+
+    "login": "Accesso",
+    "cadastro": "Registro"
+  },
+
+  "cadastro": {
+    "cadastro": "Registro",
+    "nome": "Nome",
+    "email": "Email",
+    "digite_senha": "Inserisci la tua password",
+    "fraca": "Password debole",
+    "media": "Password media",
+    "forte": "Password forte",
+
+    "condicao_1": "Lettera maiuscola",
+    "condicao_2": "Lettera minuscola",
+    "condicao_3": "Numero",
+    "condicao_4": "Carattere speciale",
+    "condicao_5": "Minimo di 6 caratteri",
+
+    "repita_senha": "Ripeti la password",
+
+    "cadastrar": "Registrati",
+    
+    "sem_nome": "Per favore, inserisci un nome",
+    "email_invalido": "Per favore, inserisci un&apos;email valida",
+      "senha_fraca": "Per favore, inserisci una password complessa",
+    "senhas_diferentes": "La password e la sua ripetizione devono essere uguali"
+  },
+
+  "login": {
+    "login": "Accesso",
+    "email": "Email",
+    "senha": "Inserisci la tua password",
+    "esqueceu_senha": "Hai dimenticato la password?",
+    "entrar": "Accedi",
+    "usuario_nao_encontrado": "Utente non trovato",
+    "senha_incorreta": "Password errata",
+    "digite_email_recup": "Inserisci la tua email per il recupero della password:",
+    "te_enviamos": "Ti abbiamo inviato un&apos;email per creare una nuova password"
+  }
+
+}

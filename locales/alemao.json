@@ -1,0 +1,52 @@
+{
+  "index": {
+    "idioma": "de",
+    "frase_principal": "Erweitern Sie Ihren Wortschatz und merken Sie sich Wörter spielerisch",
+    "aviso_beta": "Betaversion",
+    "idioma_da_pagina": "Website Verfügbar Auf:",
+    "termos_uso": "AGB",
+    "politica_privacidade": "Datenschutz",
+
+    "login": "Einloggen",
+    "cadastro": "Registrieren"
+  },
+  
+  "cadastro": {
+    "cadastro": "Registrieren",
+
+    "nome": "Name",
+    "email": "E-Mail",
+    "digite_senha": "Geben Sie Ihr Passwort ein",
+    "fraca": "Schwaches Passwort",
+    "media": "Mittleres Passwort",
+    "forte": "Starkes Passwort",
+
+    "condicao_1": "Großbuchstabe",
+    "condicao_2": "Kleinbuchstabe",
+    "condicao_3": "Zahl",
+    "condicao_4": "Sonderzeichen",
+    "condicao_5": "Mindestens 6 Zeichen",
+
+    "repita_senha": "Wiederholen Sie das Passwort",
+
+    "cadastrar": "Registrieren",
+    
+    "sem_nome": "Bitte geben Sie einen Namen ein",
+    "email_invalido": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "senha_fraca": "Bitte geben Sie ein sicheres Passwort ein",
+    "senhas_diferentes": "Passwort und seine Wiederholung müssen übereinstimmen"
+  },
+
+  "login": {
+    "login": "Einloggen",
+    "email": "E-Mail",
+    "senha": "Geben Sie Ihr Passwort ein",
+    "esqueceu_senha": "Passwort vergessen?",
+    "entrar": "Einloggen",
+    "usuario_nao_encontrado": "Benutzer nicht gefunden",
+    "senha_incorreta": "Falsches Passwort",
+    "digite_email_recup": "Geben Sie Ihre E-Mail für die Passwortwiederherstellung ein:",
+    "te_enviamos": "Wir haben Ihnen eine E-Mail geschickt, um ein neues Passwort zu erstellen"
+  }
+
+}

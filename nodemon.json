@@ -1,0 +1,4 @@
+{
+  "ignore": ["public/mp3"],
+  "ext": "js,json"
+}

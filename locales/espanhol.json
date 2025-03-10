@@ -1,0 +1,52 @@
+{
+  "index": {
+    "idioma": "es",
+    "frase_principal": "Amplia tu vocabulario y memoriza palabras jugando",
+    "aviso_beta": "Versión beta",
+    "idioma_da_pagina": "Idioma de la página:",
+    "termos_uso": "Terminos",
+    "politica_privacidade": "Privacidad",
+
+    "login": "Iniciar sesión",
+    "cadastro": "Registro"
+  },
+
+  "cadastro": {
+    "cadastro": "Registro",
+
+    "nome": "Nombre",
+    "email": "Correo electrónico",
+    "digite_senha": "Ingresa tu contraseña",
+    "fraca": "Contraseña débil",
+    "media": "Contraseña media",
+    "forte": "Contraseña fuerte",
+
+    "condicao_1": "Letra mayúscula",
+    "condicao_2": "Letra minúscula",
+    "condicao_3": "Número",
+    "condicao_4": "Carácter especial",
+    "condicao_5": "Mínimo de 6 caracteres",
+
+    "repita_senha": "Repite la contraseña",
+
+    "cadastrar": "Registrar",
+    
+    "sem_nome": "Por favor, ingresa un nombre",
+    "email_invalido": "Por favor, ingresa un correo electrónico válido",
+    "senha_fraca": "Por favor, ingresa una contraseña segura",
+    "senhas_diferentes": "La contraseña y su repetición deben ser iguales"
+  },
+
+  "login": {
+    "login": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "senha": "Ingresa tu contraseña",
+    "esqueceu_senha": "¿Olvidaste tu contraseña?",
+    "entrar": "Ingresar",
+    "usuario_nao_encontrado": "Usuario no encontrado",
+    "senha_incorreta": "Contraseña incorrecta",
+    "digite_email_recup": "Ingresa tu correo electrónico para la recuperación de contraseña:",
+    "te_enviamos": "Te hemos enviado un correo electrónico para que crees una nueva contraseña"
+  }
+
+}

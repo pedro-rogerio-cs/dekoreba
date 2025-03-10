@@ -1,0 +1,51 @@
+{
+  "index": {
+    "idioma": "pt",
+    "frase_principal": "Expanda seu vocabulário e memorize palavras brincando",
+    "aviso_beta": "Versão beta",
+    "idioma_da_pagina": "Idioma da Página:",
+    "termos_uso": "Termos de Uso",
+    "politica_privacidade": "Política de Privacidade",
+
+    "login": "Login",
+    "cadastro": "Cadastro"
+  },
+  
+  "cadastro": {
+    "cadastro": "Cadastro",
+    "nome": "Nome",
+    "email": "E-mail",
+    "digite_senha": "Digite sua senha",
+    "fraca": "Senha fraca",
+    "media": "Senha média",
+    "forte": "Senha forte",
+
+    "condicao_1": "Letra maiúscula",
+    "condicao_2": "Letra minúscula",
+    "condicao_3": "Número",
+    "condicao_4": "Caractere especial",
+    "condicao_5": "Mínimo de 6 caracteres",
+
+    "repita_senha": "Repita a senha",
+
+    "cadastrar": "Cadastrar",
+    
+    "sem_nome": "Por favor, insira um nome",
+    "email_invalido": "Por favor, insira um e-mail válido",
+    "senha_fraca": "Por favor, insira uma senha forte",
+    "senhas_diferentes": "A senha e sua repetição devem ser iguais"
+  },
+
+
+  "login": {
+    "login": "Login",
+    "email": "E-mail",
+    "senha": "Digite sua senha",
+    "esqueceu_senha": "Esqueceu sua senha?",
+    "entrar": "Entrar",
+    "usuario_nao_encontrado": "Usuário não encontrado",
+    "senha_incorreta": "Senha incorreta",
+    "digite_email_recup": "Digite seu e-mail para a recuperação de senha:",
+    "te_enviamos": "Te enviamos um e-mail para você criar uma nova senha"
+  }
+}

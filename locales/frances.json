@@ -1,0 +1,52 @@
+{
+  "index": {
+    "idioma": "fr",
+    "frase_principal": "Développez votre vocabulaire et mémorisez des mots en jouant",
+    "aviso_beta": "Versão beta",
+    "idioma_da_pagina": "Langue du Siti:",
+    "termos_uso": "Conditions d&apos;utilisation",
+    "politica_privacidade": "Confidentialité",
+
+    "login": "Connexion",
+    "cadastro": "Registre"
+  },
+
+  "cadastro": {
+    "cadastro": "Registre",
+    
+    "nome": "Nom",
+    "email": "Email",
+    "digite_senha": "Entrez votre mot de passe",
+    "fraca": "Mot de passe faible",
+    "media": "Mot de passe moyen",
+    "forte": "Mot de passe fort",
+
+    "condicao_1": "Lettre majuscule",
+    "condicao_2": "Lettre minuscule",
+    "condicao_3": "Numéro",
+    "condicao_4": "Caractère spécial",
+    "condicao_5": "Minimum de 6 caractères",
+
+    "repita_senha": "Répétez le mot de passe",
+
+    "cadastrar": "S&apos;inscrire",
+    
+    "sem_nome": "Veuillez entrer un nom",
+    "email_invalido": "Veuillez entrer un email valide",
+    "senha_fraca": "Veuillez entrer un mot de passe fort",
+    "senhas_diferentes": "Le mot de passe et sa répétition doivent être identiques"
+  },
+
+  "login": {
+    "login": "Connexion",
+    "email": "Email",
+    "senha": "Entrez votre mot de passe",
+    "esqueceu_senha": "Mot de passe oublié ?",
+    "entrar": "Se connecter",
+    "usuario_nao_encontrado": "Utilisateur non trouvé",
+    "senha_incorreta": "Mot de passe incorrect",
+    "digite_email_recup": "Entrez votre email pour la récupération du mot de passe :",
+    "te_enviamos": "Nous vous avons envoyé un email pour créer un nouveau mot de passe"
+  }
+
+}
